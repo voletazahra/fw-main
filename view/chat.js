@@ -8,8 +8,7 @@ function readChat() {
   //     chat.value = data;
   //   });
   // setTimeout(readChat, 1000);
-  console.log("KONTOL");
-}
+  
 readChat();
 
 // message.addEventListener("keyup", (e) => {
